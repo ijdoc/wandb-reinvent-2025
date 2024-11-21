@@ -1,0 +1,6 @@
+name: wandb-pml-backend-aws-lambda
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: Reference AWS Lambda trigger written in python
